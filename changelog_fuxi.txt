@@ -4,7 +4,7 @@
 - latest crDroid source changes
 - replaced Launcher3 with PixelLauncherExtended
 - addressed UI frame drops even further
-- initial OTA support
+- initial OTA support?
 ====================
      11-03-2023
 ====================
